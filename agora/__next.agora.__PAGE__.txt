@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[55692,["/tono/_next/static/chunks/3gmqkh5f-tz17.js","/tono/_next/static/chunks/2vix6bf5us2vl.js","/tono/_next/static/chunks/14mrh2-p_w84d.js","/tono/_next/static/chunks/1c5wv2kqy6wxm.js"],"default"]
+3:I[52554,["/tono/_next/static/chunks/3gmqkh5f-tz17.js","/tono/_next/static/chunks/2vix6bf5us2vl.js","/tono/_next/static/chunks/14mrh2-p_w84d.js","/tono/_next/static/chunks/1c5wv2kqy6wxm.js"],"default"]
+4:I[97367,["/tono/_next/static/chunks/3gmqkh5f-tz17.js","/tono/_next/static/chunks/2vix6bf5us2vl.js","/tono/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-12","children":[["$","$L2",null,{}],["$","p",null,{"className":"label-band text-flame","children":"Pronta entrega"}],["$","h1",null,{"className":"display text-6xl md:text-7xl mt-2","children":["Pra comer",["$","br",null,{}],"agora",["$","span",null,{"className":"text-flame","children":"."}]]}],["$","p",null,{"className":"mt-4 max-w-lg text-ink/75","children":"As marmitas do dia, prontas pra sair. Pediu, chegou."}],["$","div",null,{"className":"mt-10","children":["$","$L3",null,{"onlyAvailableNow":true}]}]]}],[["$","script","script-0",{"src":"/tono/_next/static/chunks/1c5wv2kqy6wxm.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"LrmZ8B_T1l7bs-7EYeZCu"}
+6:null
